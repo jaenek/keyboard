@@ -1,0 +1,4 @@
+KC_LGUI and KC_RGUI not working:
+	This is caused by holding the the space + LGUI key when plugging
+	the keyboard in - if you hold space + backspace, if should reset the eeprom,
+	and restore the GUI keys.
